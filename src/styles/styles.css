@@ -1,0 +1,29 @@
+body {
+  color: white !important;
+  background: url('../data/architecture-buildings-cars-2498551.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-size: 0.89em !important;
+}
+.padding,
+.form-group {
+  padding: 1em;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+}
+
+span {
+  color: white !important;
+}
+
+.text-muted {
+  color: white !important;
+}
+
+.card {
+  background-color: transparent;
+}
